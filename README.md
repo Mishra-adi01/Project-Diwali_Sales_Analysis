@@ -1,2 +1,5 @@
 # Project-Diwali_Sales_Analysis
-Sure! Here's a concise description for your GitHub repository:  "Project Diwali Sale Analysis: An Exploratory Data Analysis (EDA) project using Pandas, Matplotlib, and Seaborn to uncover insights from Diwali sales data."
+Performed data cleaning and manipulation
+Performed exploratory data analysis (EDA) using pandas, matplotlib and Seaborn libraries
+Improved customer experience by identifying potential customers across different states, occupation, gender and age groups 
+Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands 
